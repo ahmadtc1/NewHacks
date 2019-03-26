@@ -16,7 +16,7 @@ Through feed.me's simple and easy to use user interface, users can snap a pictur
 Our app's user interface was designed using Android Studio by our App developers, [JY](https://github.com/grandpabear), and Grace.
 
 #### Server Side Logic
-[I](https://github.com/ahmadtc1) developed a web server through which the requests between the Android App and database were processed. The server was developed using Python's Flask framework, where I developed a REST Api, accessible at different endpoints for reading and writing data. My database of choice was MongoDB, as I love its flexibility, scalibility, and ability to store diverse types of BSON objects. I utilised POST requests to insert data into the database, and GET requests to retrieve data from the database.
+[I](https://github.com/ahmadtc1) developed a web server through which the requests between the Android App and database were processed. The server was developed using Python's Flask framework, where I developed a REST Api, accessible at different endpoints for reading and writing data. My database of choice was MongoDB, as I love its flexibility and storage formats. I utilised POST requests to insert data into the database, and GET requests to retrieve data from the database.
 
 
 #### Computer Vision
