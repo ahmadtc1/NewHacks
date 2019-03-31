@@ -21,3 +21,7 @@ Our app's user interface was designed using Android Studio by our App developers
 
 #### Computer Vision
 The computer vision was handled by [Max](https://github.com/Maxeraph), who used the Google Cloud Vision API to recognize receipt text and trained a model to localize objects if scanning the ingredients in the fridge rather than the receipt.
+
+
+#### UI
+![Home Page](/Images/55539239_425496811591103_5437915074796716032_n.png)
